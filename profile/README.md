@@ -1,12 +1,5 @@
-## Hi there 👋
+Forhandlere og bilportaler kæmper om de digitale kunder, og konkurrencen er benhård. Er din hjemmeside ikke opdateret, relevant, inspirerende og engagerende, så hopper potentielle kunder hurtigt videre til næste udbyder på søgelisten – og du går slip af salget.
 
-<!--
+Tag styringen og få kunderne ind i din digitale forretning. CarAds tilbyder digitale løsninger til bilforhandlere, der inkluderer en skræddersyet hjemmeside samt en abonnementsordning, som giver adgang til unikke værktøjer, der hjælper dig med at sælge biler online.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+På den måde har du alt, du skal bruge for at overhale konkurrenterne digitalt!
